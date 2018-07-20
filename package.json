@@ -1,0 +1,25 @@
+{
+  "name": "movieapiapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js" 
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YassSoliman/MovieAPIApp.git"
+  },
+  "author": "Yasser Soliman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YassSoliman/MovieAPIApp/issues"
+  },
+  "homepage": "https://github.com/YassSoliman/MovieAPIApp#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
